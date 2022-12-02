@@ -1,5 +1,6 @@
 # Houses_Prediction
-A Kaggle's competition 
+A Kaggle's competition
+<br>
 Most of the work was data preprocessing, filtring and cleaning.
 I tried 3 different regression algorithms, Linear Regression, RandomForest amd XGBoost.
 and the score and the Mean Square Error were the following:
