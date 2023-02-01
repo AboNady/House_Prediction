@@ -6,6 +6,13 @@ I tried 3 different regression algorithms, Linear Regression, RandomForest amd X
 and the score and the Mean Square Error were the following:
     <br/>
   </p>
+  
+<br/>
+<div align="center">
+  <a href="https://i.imgur.com/sw9GZwH.png">
+    <img src="https://i.imgur.com/sw9GZwH.png" alt="Logo" width="860" height="444">
+  </a>
+  
 </div>
 
 ## Tech Stack
