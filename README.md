@@ -1,4 +1,4 @@
-<h1 align="center">Houses Prediction</h1>
+<h1 align="center">House Prediction</h1>
 <div>
   <p align="center">
     Most of the work was data preprocessing, filtring and cleaning.
